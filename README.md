@@ -60,5 +60,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Happy coding and enjoy playing 2048!
+Happy coding and enjoy playing 2048 and let me know how many trails you did to reach 2048!
 
