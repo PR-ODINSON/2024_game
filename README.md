@@ -53,7 +53,7 @@ python 2048_game.py
 Contributions are welcome! To contribute:
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix.
-3. Submit a pull request with a detailed explanation of your changes.
+3. Submit a pull request with a detailed explanation of your changes!
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
