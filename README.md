@@ -38,6 +38,7 @@ This project brings the popular 2048 game to life using Python. The game is play
 
 ## Usage
 
+
 Run the game using the following command:
 ```bash
 python 2048_game.py
