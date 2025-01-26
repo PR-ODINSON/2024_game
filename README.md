@@ -1,6 +1,6 @@
 # 2048 Game
 
-A Python implementation of the classic 2048 game made with python using a graphical user interface (GUI) built using Tkinter
+A Python implementation of the classic 2048 game made with python using a graphical user interface (GUI) built using Tkinter.
 
 ## Table of Contents
 - [About](#about)
